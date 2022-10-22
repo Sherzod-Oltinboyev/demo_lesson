@@ -5,10 +5,5 @@ how can you do this
 
 Where do you live?
 Can you give me a solution?
-<<<<<<< HEAD
-How are you?
-What is your name?
-=======
 
-new content
->>>>>>> 8c62189dafefd679155c61aaa56ef46b4f6a85e7
+Added new line to feature
